@@ -1,29 +1,26 @@
-### Hello World! 👋
+### Hello World!, I'm Jean 👋
 
-Welcome to my repository, here i will be sharing my progress as software developer, enjoy :grin:
+Welcome to my repository, here i will be sharing my progress as a software developer. I'm from Brazil, currently i graduated with a bachelor's degree in computer science from University Salvador (UNIFACS) and i'm working as junior software developer. 
 
-Currently, I have a degree in Computer Science from Universidade Salvador (UNIFACS), and i'm working as Jr. Developer at TecnoTrends. 
-
-### Main Technologies
-<div style="display: inline_block"><br>
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-</div>
-<br>
+### Technologies
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### I'm Learning  
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Social
-<div> 
-  <a href="https://www.linkedin.com/in/jeanlucasfreire/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/jeanlucasfreire/">
+  <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<p align="center">
+    <img src="https://profile-counter.glitch.me/JeanlucasDev/count.svg" />
+</p>
 
 
 <!--
