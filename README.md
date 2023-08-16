@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Welcome to my repository, here i will be sharing my progress as developer, enjoy :grin:
+Welcome to my repository, here i will be sharing my progress as software developer, enjoy :grin:
 
 Currently, I have a degree in Computer Science from Universidade Salvador (UNIFACS), and i'm working as Jr. Developer at TecnoTrends. 
 
