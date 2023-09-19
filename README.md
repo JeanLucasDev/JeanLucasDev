@@ -23,6 +23,10 @@ Welcome to my repository, here i will be sharing my progress as a software devel
     <img src="https://profile-counter.glitch.me/JeanlucasDev/count.svg" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=JeanLucasDev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=dark&hide_border=false&username=JeanLucasDev" height="150" alt="languages graph"  />
+</div
 
 <!--
 **JeanLucasDev/JeanLucasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
