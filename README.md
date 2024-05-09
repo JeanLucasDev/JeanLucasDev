@@ -1,18 +1,12 @@
 ### Hello World!, I'm Jean 👋
 
-Welcome to my repository, here i will be sharing my progress as a software developer. I'm from Brazil, currently i graduated with a bachelor's degree in computer science from University Salvador (UNIFACS) and i'm working as junior software developer. 
+Welcome to my repository, here i will be sharing my progress as a software developer. I'm from Brazil, currently i graduated with a bachelor's degree in computer science from University Salvador (UNIFACS). 
 
 ### Technologies
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### I'm Learning  
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Social Media
 <a href="https://www.linkedin.com/in/jeanlucasfreire/">
